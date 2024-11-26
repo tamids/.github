@@ -69,7 +69,7 @@ We believe in creating solutions that not only push the boundaries of technology
 
 We’d love to hear from you! Feel free to reach out:
 
-📧 Email: [drew.casey@tamu.edu](mailto:drew.casey@tamu.edu)  
+📧 Email: [tamids@tamu.edu](mailto:tamids@tamu.edu)  
 🌐 Website: [tamids.tamu.edu](https://tamids.tamu.edu)
 
 ---
